@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPS Basic Lesson</string>
+    <string name="title_activity_maps">Your Localization</string>
+    <string name="latitudeText">Latitude</string>
+    <string name="longitudeText">Longitude</string>
+    <string name="edtLatitudeText">Ex.: -57</string>
+    <string name="edtLongitudeText">Ex.: -97,075</string>
+    <string name="btnObterLocalizacaoText">Obter Localização</string>
+    <string name="voceEstaAqui">Você está aqui!</string>
+</resources>
